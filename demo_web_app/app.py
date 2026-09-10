@@ -12,7 +12,7 @@ def home():
 def health():
     return {
         "status": "healthy",
-        "service": "cicd-demo-app version 2"
+        "service": "cicd-demo-app"
     }, 200
 
 
